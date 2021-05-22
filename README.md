@@ -2,7 +2,6 @@
 
 ## Description
 
-Github Live Link: https://github.com/ucruz2025/TheExpressWay
 
 Heroku Live Link: https://peaceful-citadel-46056.herokuapp.com
 
@@ -15,10 +14,21 @@ Heroku Live Link: https://peaceful-citadel-46056.herokuapp.com
 * [License](#license)
 
 ## Installation
+To install this program, make sure to be in your Terminal and run this comand:
+
+```bash
+git clone git@github.com:ucruz2025/TheExpressWay.git
+```
+Once cloned, make sure to install the dependancies for it to run on your local computer.
+
+```bash
+npm i
+```
 
 ## Usage
 
 ## Contributing
+Contribution details can be found under the license section of this file.
 
 ## Questions?
 If you happen to have any further questions regarding the project, feel free to reach out to:
