@@ -2,7 +2,8 @@
 
 ## Description
 
-Live Heroku Link: 
+Github Live Link: 
+Heroku Live Link: 
 
 ## Table of Contents
 
